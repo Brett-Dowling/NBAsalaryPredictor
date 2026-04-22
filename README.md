@@ -20,7 +20,8 @@ This project uses supervised machine learning to predict 2025–26 NBA player sa
 | Median Baseline | Done | -0.208 |
 | Linear Regression | Done | 0.507 |
 | Ridge Regression | Done | 0.520 |
-| Random Forest | To do | — |
+| Decision Tree | Done | 0.622 |
+| Random Forest | Done | 0.678 |
 | MLP (Neural Network) | To do | — |
 
 ## Repo Structure
@@ -31,7 +32,8 @@ This project uses supervised machine learning to predict 2025–26 NBA player sa
 
 ## Still To Do
 
-- [ ] Random Forest with feature importance analysis
+- [x] Decision Tree with overfitting analysis
+- [x] Random Forest with feature importance analysis
 - [ ] MLP (neural network) implementation and tuning
 - [ ] Final model comparison table and plots
 - [ ] Presentation slides (due Apr 29)
