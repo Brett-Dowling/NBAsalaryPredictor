@@ -22,7 +22,7 @@ This project uses supervised machine learning to predict 2025–26 NBA player sa
 | Ridge Regression | Done | 0.520 |
 | Decision Tree | Done | 0.622 |
 | Random Forest | Done | 0.678 |
-| MLP (Neural Network) | Done | 0.083 |
+| MLP (Neural Network) | Done | 0.500 |
 
 ## Repo Structure
 
